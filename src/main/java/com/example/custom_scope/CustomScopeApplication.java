@@ -11,7 +11,6 @@ import org.springframework.context.support.SimpleThreadScope;
 import org.springframework.stereotype.Component;
 
 import java.lang.annotation.*;
-import java.util.UUID;
 
 @SpringBootApplication
 public class CustomScopeApplication {
